@@ -7,7 +7,7 @@
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
-     <label for="Race"><b>Enter Name</b></label>
+     <label for="Race"><b>Enter Race</b></label>
     <input type="text" placeholder="Enter Your Race" name="Race" id="Race" required>
     <br>
 
