@@ -3,7 +3,7 @@
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
-    <label for="fav-food"><b>Enter favorite food!</b></label>
+    <label for="fav-food"><b>Enter favorite food!dsafwewq</b></label>
     <input type="text" placeholder="Enter favorite food" name="fav-food" id="fav-food" required>
     <br>
  
